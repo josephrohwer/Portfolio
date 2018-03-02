@@ -12,4 +12,4 @@ Web Development
 Game Development
 
 - [Remaking Cavestory](https://github.com/josephrohwer/remaking-cavestory)
-- [Building Escape](https://github.com/josephrohwer/building-escape)
+- [Building Escape](https://github.com/josephrohwer/building-escape) (In Progress)
