@@ -1,5 +1,4 @@
 # Portfolio
-## Collection of personal projects created outside of work
 ---
 
 Web Development
