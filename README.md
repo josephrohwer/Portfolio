@@ -9,5 +9,5 @@ Web Development
 
 Game Development
 
-- [Remaking Cavestory](https://github.com/josephrohwer/remaking-cavestory)
+- [Reconstructing Cave Story](https://github.com/josephrohwer/reconstructing-cave-story)
 - [Building Escape](https://github.com/josephrohwer/building-escape) (In Progress)
