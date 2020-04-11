@@ -10,4 +10,3 @@ Web Development
 Game Development
 
 - [Reconstructing Cave Story](https://github.com/josephrohwer/reconstructing-cave-story)
-- [Building Escape](https://github.com/josephrohwer/building-escape) (In Progress)
